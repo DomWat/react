@@ -1,0 +1,22 @@
+.articleContainer {
+    display: flex;
+    flex-direction: column;
+    width: 85%;
+    margin-left: 65px;
+    margin-top: 10px;
+    padding-left: 5px;
+}
+
+.articleContent p {
+    margin-bottom: 1%;
+}
+
+
+.articleContentScales {
+    background-color: rgb(255, 153, 0);
+    color: white;
+}
+
+.articleTitle {
+    margin-bottom: 0%;
+}

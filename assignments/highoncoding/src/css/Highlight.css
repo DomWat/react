@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(128, 128, 128, 0.658);
+    margin-top: 10px;
+    width: 90%;
+    margin-left: 45px;
+    padding-left: 10px;
+}
+h2 {
+    margin-bottom: 45px;
+}

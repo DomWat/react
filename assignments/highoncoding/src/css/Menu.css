@@ -1,0 +1,28 @@
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: solid;
+    margin-top: 10px;
+    background-color: rgb(26, 134, 161);
+    color: whitesmoke;
+}
+
+.menuTitle {
+    margin-left: 25px;
+}
+
+.menuOptions {
+    margin-top: 35px;
+    margin-right: 55px;
+    padding-right: 10px;
+}
+
+.menuOptions a {
+    padding-right: 35px;
+    color: white;
+}
+
+.menuOptions a:hover {
+    cursor: hand;
+}
