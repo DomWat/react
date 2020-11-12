@@ -1,0 +1,24 @@
+button {
+    margin-right: 10px;
+}
+
+.buttonOne {
+    order: 1;
+}
+
+.buttonTwo {
+    order: 3;
+    margin-left: 10px;
+}
+
+h1 {
+    order: 2;
+}
+
+.stepperDiv {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
